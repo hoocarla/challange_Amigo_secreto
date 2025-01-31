@@ -6,11 +6,15 @@ Como Usar?
 Adicione seus amigos: Insira os nomes no campo e clique em Adicionar para incluir seus amigos na lista.
 Sorteie o amigo secreto: Clique no botão 🎲 Sortear amigo e descubra quem será o sortudo!
 Repita o processo: Continue adicionando nomes ou realizando sorteios sempre que quiser. 🎉
+
+
 🛠️ Tecnologias Utilizadas:
 
 HTML ![HTML Logo]
 CSS ![CSS Logo]
 JavaScript ![JavaScript Logo]
+
+
 🖼️ Interface:
 
 Campo para adicionar amigos: Insira os nomes rapidamente.
