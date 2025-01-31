@@ -1,22 +1,28 @@
-# challange_Amigo_secreto
-Bem-vindo ao Amigo Secreto! O aplicativo perfeito para tornar suas festas ainda mais emocionantes. Sorteie amigos secretos de forma simples, rápida e divertida! 🥳✨
+# Amigo Secreto 🎉🎁  
 
-Como Usar?
+Bem-vindo ao **Amigo Secreto**! Um app simples e divertido para sortear amigos secretos e tornar suas festas mais emocionantes. 🥳✨  
 
-Adicione seus amigos: Insira os nomes no campo e clique em Adicionar para incluir seus amigos na lista.
-Sorteie o amigo secreto: Clique no botão 🎲 Sortear amigo e descubra quem será o sortudo!
-Repita o processo: Continue adicionando nomes ou realizando sorteios sempre que quiser. 🎉
+---
 
+## 📋 Como usar?  
+1. **Adicione amigos**: Digite o nome no campo e clique em **Adicionar**.  
+2. **Sortear**: Clique no botão 🎲 **Sortear amigo** para descobrir quem será o amigo secreto!  
+3. **Repita**: Continue adicionando ou sorteando conforme necessário. 🎉  
 
-🛠️ Tecnologias Utilizadas:
+---
 
-HTML ![HTML Logo]
-CSS ![CSS Logo]
-JavaScript ![JavaScript Logo]
+## 🛠️ Tecnologias  
+- **HTML** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="15px" height="15px">  
+- **CSS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="15px" height="15px">  
+- **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="15px" height="15px">  
 
+---
 
-🖼️ Interface:
+## 🖼️ Interface  
+- 🔹 **Campo de nomes** para adicionar seus amigos.  
+- 🔹 **Lista de amigos** exibida dinamicamente.  
+- 🔹 **Mensagem do sorteado** após o sorteio.  
 
-Campo para adicionar amigos: Insira os nomes rapidamente.
-Lista dinâmica de amigos: Veja todos os seus amigos à medida que os adiciona.
-Mensagem de sorteio: O nome do amigo secreto aparece automaticamente após o sorteio!
+---
+
+Divirta-se com o sorteio! 😄🎁
